@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to XBank accounts cards prod APIs"
+  contactDetails:
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@xbank.com"
+  onCallSupport:
+    - (+62) 855-4321-2222
+    - (+62) 837-3123-5786
